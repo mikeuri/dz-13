@@ -1,0 +1,61 @@
+[DEBUG] 2023-08-24 20:51:49.751 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 20:52:42.162 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 20:53:11.452 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 21:01:34.096 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 21:02:12.897 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 21:40:47.828 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 21:48:42.925 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 21:49:09.274 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 21:53:44.048 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 21:53:59.554 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 21:54:56.101 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 22:02:51.906 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 22:11:09.472 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 22:12:58.873 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 22:28:29.975 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 22:29:24.884 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 22:35:18.128 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:09:56.162 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:11:27.997 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:11:47.272 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:22:02.391 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:22:13.115 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:26:14.636 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:26:46.771 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:27:21.461 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:29:38.625 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:41:34.910 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:49:34.530 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:50:11.538 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:51:18.799 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:53:15.452 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:53:56.696 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:54:53.203 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-24 23:59:44.912 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-25 00:00:05.333 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-28 20:14:01.706 [main] MySQLDriver - Create mysql connection
+[ERROR] 2023-08-28 20:14:01.885 [main] MySQLDriver - Could not connect to database: REASON: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DEBUG] 2023-08-28 20:14:01.899 [main] MySQLDriver - Create mysql connection
+[ERROR] 2023-08-28 20:14:01.901 [main] MySQLDriver - Could not connect to database: REASON: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DEBUG] 2023-08-28 20:14:01.906 [main] MySQLDriver - Create mysql connection
+[ERROR] 2023-08-28 20:14:01.909 [main] MySQLDriver - Could not connect to database: REASON: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DEBUG] 2023-08-28 20:14:01.912 [main] MySQLDriver - Create mysql connection
+[ERROR] 2023-08-28 20:14:01.914 [main] MySQLDriver - Could not connect to database: REASON: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[DEBUG] 2023-08-28 20:18:22.524 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-28 20:27:49.862 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-28 20:28:33.482 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-28 20:29:19.028 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-28 20:33:10.912 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-28 20:41:28.932 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-28 20:42:54.144 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-28 21:25:43.880 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-28 21:34:22.703 [main] MySQLDriver - Create mysql connection
+[DEBUG] 2023-08-28 21:35:23.820 [main] MySQLDriver - Create mysql connection
