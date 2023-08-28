@@ -1,5 +1,0 @@
-storage/cache
-storage/logs/*.log
-src/image/cache
-src/**/config.php
-
